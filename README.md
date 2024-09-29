@@ -6,8 +6,7 @@ Welcome to my Python projects repository! Here, you'll find a collection of vari
 ## Table of Contents
 - [Projects](#projects)
 - [How to Run the Projects](#how-to-run-the-projects)
-- [Contributions](#contributions)
-- [License](#license)
+
 
 ## Projects
 
