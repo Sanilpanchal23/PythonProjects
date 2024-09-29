@@ -1,4 +1,3 @@
-# PythonProjects
 
 # Python Projects Repository
 
